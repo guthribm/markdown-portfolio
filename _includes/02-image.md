@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![my profile pic](https://guthribm.github.io/profile/images/profile%20pic.png)
