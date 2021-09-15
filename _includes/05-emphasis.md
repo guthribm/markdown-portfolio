@@ -23,6 +23,6 @@
   * **Mass Effect** all
   * Too many to name..
       * RPG, FPS, Platformer..
-  * PC and Console
+  * **PC** *and* **Console**
   
  
